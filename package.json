@@ -30,6 +30,7 @@
     "chai": "^4.1.0",
     "chai-http": "^3.0.0",
     "mochi": "^0.3.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "serve-favicon": "^2.4.3"
   }
 }
