@@ -4,6 +4,9 @@ router.get('/', (req, res, next) => {
   res.render('home')
 })
 
+router.get('/resume', (req, res, next) => {
+  res.render('resume')
+})
 router.get('/description', (req, res, next) => {
   res.render('description')
 })
